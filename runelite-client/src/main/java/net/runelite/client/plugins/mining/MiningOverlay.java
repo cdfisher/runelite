@@ -63,7 +63,8 @@ class MiningOverlay extends OverlayPanel
 		AnimationID.MINING_MOTHERLODE_MITHRIL,
 		AnimationID.MINING_MOTHERLODE_RUNE,
 		AnimationID.MINING_MOTHERLODE_STEEL,
-		AnimationID.MINING_MOTHERLODE_TRAILBLAZER);
+		AnimationID.MINING_MOTHERLODE_TRAILBLAZER,
+		AnimationID.MINING_MOTHERLODE_TRAILBLAZER_RELOADED);
 
 	private final Client client;
 	private final MiningPlugin plugin;
